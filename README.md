@@ -1,4 +1,4 @@
-## Olá! Eu sou o Henrique
+## Olá!
 
 <!-- - 🔭 I’m currently working on ... -->
 - 👨‍🎓 Cursando Análise e Desenvolvimento de Sistemas
