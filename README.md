@@ -9,7 +9,7 @@
   <a href="https://github.com/henriquecesarjr">
   
   ![henriquecesarjr GitHub stats](https://github-readme-stats.vercel.app/api?username=henriquecesarjr&show_icons=true&theme=dark&count_private=true&)
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquecesarjr&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquecesarjr&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <div style="display: inline_block"><br>
