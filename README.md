@@ -2,7 +2,7 @@
 
 <!-- - 🔭 I’m currently working on ... -->
 - 👨‍🎓 Cursando Análise e Desenvolvimento de Sistemas
-- 🌱 Estudando Java utilizando Spring e Banco de Dados
+- 🌱 Estudando Java utilizando Spring, Desenvolvimento Web e Banco de Dados
 
   <!--![henriquecesarjr GitHub stats](https://github-readme-stats.vercel.app/api?username=henriquecesarjr&show_icons=true&theme=dark&count_private=true&)-->
   <div>
