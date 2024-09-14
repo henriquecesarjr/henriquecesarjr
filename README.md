@@ -26,14 +26,14 @@
   <img align="center" alt="Cesar-Html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
   <img align="Center" alt="Cesar-Css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
   <img align="Center" alt="Cesar-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  <!-- <img align="Center" alt="Cesar-TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" /> -->
+  <img align="Center" alt="Cesar-TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
   <!-- <img align="Center" alt="Cesar-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" /> -->
   <!-- <img align="Center" alt="Cesar-Next" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" /> -->
   <!-- <img align="Center" alt="Cesar-Sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" /> -->
   <img align="Center" alt="Cesar-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
   
   <img align="center" alt="Cesar-Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
-  <img align="center" alt="Cesar-Git" height="50" width="50" src="https://github.com/henriquecesarjr/henriquecesarjr/blob/main/assets/icons8-github.svg" />
+  <img align="center" alt="Cesar-GitHub" height="50" width="50" src="https://github.com/henriquecesarjr/henriquecesarjr/blob/main/assets/icons8-github.svg" />
 </div>
   
   ## Conecte-se Comigo
