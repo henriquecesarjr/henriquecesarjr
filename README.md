@@ -2,7 +2,7 @@
 
 <!-- - 🔭 I’m currently working on ... -->
 - 👨‍🎓 Cursando Análise e Desenvolvimento de Sistemas
-- 🌱 Estudando Java utilizando Spring, Banco de Dados e Desenvolvimento Web
+- 🌱 Estudando Java utilizando Spring e Desenvolvimento Web
 
   <!--![henriquecesarjr GitHub stats](https://github-readme-stats.vercel.app/api?username=henriquecesarjr&show_icons=true&theme=dark&count_private=true&)-->
   <div>
@@ -18,7 +18,9 @@
   <img align="center" alt="Cesar-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
   <img align="center" alt="Cesar-Mysql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />
   <img align="center" alt="Cesar-Postgres" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-  <img align="center" alt="Cesar-Firebase" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" />
+  <img align="center" alt="Cesar-Mongo" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
+  <img align="center" alt="Cesar-Cassandra" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cassandra/cassandra-original.svg" />
+  <!-- <img align="center" alt="Cesar-Firebase" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" /> -->
   <!-- <img align="center" alt="Cesar-Railway" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/railway/railway-original.svg" /> -->
   <img align="center" alt="Cesar-Postman" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
   <img align="center" alt="Cesar-Docker" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
