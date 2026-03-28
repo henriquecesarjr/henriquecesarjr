@@ -18,7 +18,7 @@
 
 🔐 Currently studying **Cybersecurity**
 
-🛰️ I am currently developing **VIGIL**, a project that combines **OSINT** techniques with **Node.js**.
+<!--🛰️ I am currently developing **VIGIL**, a project that combines **OSINT** techniques with **Node.js**.-->
 
 ---
 
